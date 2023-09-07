@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+#처음 만난 리액트 실습 코드 
+
+웹 애플리케이션을 개발모드로 실행합니다.
+`$ npm start`
+이후 http://loaclhost:3000에서 접속 가능합니다.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
